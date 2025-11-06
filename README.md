@@ -4,7 +4,7 @@ Requirements
 python3.10
 pytorch==2.3.1
 Running the code
-python colie.py
+python hybrid_main_dehaze.py
 The code execution is controlled with the following parameters:
 
 --input_folder defines the name of the folder with input images
